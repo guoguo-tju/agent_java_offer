@@ -1,12 +1,12 @@
-# Agent Java Offer
+# Agent Offer
 
-一份面向 **Java 后端 转型到 AI Agent ** 的公开复习资料库。
+一份面向 后端 转型到 AI Agent  的公开复习资料库。
 目的是把分散笔记重组为更适合复习、口述和追问深挖的结构化目录。
 
 ## 这份仓库适合谁
 
-- 准备 Java 后端、系统设计、算法面试的人
-- 正在从 Java 后端转向 AI Agent / 大模型应用工程的人
+- 准备 后端、系统设计、算法面试的人
+- 正在从  后端转向 AI Agent / 大模型应用工程的人
 
 ## 转agent的一些建议
 1.有个开源学习项目, 很适合从0-1入门agent: https://github.com/datawhalechina/Hello-Agents
@@ -100,7 +100,7 @@
 
 ## 推荐复习顺序
 
-### 路线 A：Java 后端转 AI Agent
+### 路线 A：后端转 AI Agent
 
 1. `01_AI`
 2. `02_后端`
