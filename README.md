@@ -133,7 +133,3 @@
 ## 友情链接
 
 - [LINUX DO](https://linux.do) — 新的理想型社区
-
-<p align="center">
-  <a href="https://linux.do" alt="LINUX DO"><img src="https://shorturl.at/ggSqS" /></a>
-</p>
