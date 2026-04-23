@@ -15,7 +15,6 @@
 @docs/interview_prep/00_导航/README.md
 @docs/interview_prep/00_导航/总索引.md
 @docs/interview_prep/00_导航/复习路线图.md
-@docs/interview_prep/00_导航/原目录映射表.md
 @DISCLAIMER.md
 @LICENSE
 
